@@ -5,6 +5,8 @@ require_once 'models/Genre.php';
 require_once 'models/Movies.php';
 require_once 'db.php';
 
+$movies[1]->setDirector('Francis Ford Coppola');
+
 ?>
 
 
